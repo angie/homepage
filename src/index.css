@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro');
+body {
+  background-color: #EDAFB8;
+  /*background-color: #F4F4F8;*/
+  margin: 0;
+  padding: 0;
+  font-family: 'Anonymous Pro', monospace;
+}
+
+.blue-accent {
+  color: #2AB7CA
+}
+
+.yellow-accent {
+  color: #FED766
+}
