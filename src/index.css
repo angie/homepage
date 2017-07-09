@@ -1,10 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Anonymous+Pro');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+@import url('https://fonts.googleapis.com/css?family=Nova+Cut');
 body {
-  background-color: #EDAFB8;
-  /*background-color: #F4F4F8;*/
   margin: 0;
   padding: 0;
-  font-family: 'Anonymous Pro', monospace;
+  font-family: 'Inconsolata', monospace;
+}
+
+a {
+  border-bottom: 4px solid blue;
+  text-decoration: none;
 }
 
 .blue-accent {

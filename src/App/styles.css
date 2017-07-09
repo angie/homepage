@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin-top: 150px;
+  margin-left: 200px;
+  font-size: 20px;
+  width: 70%;
+}
+
+.App-header {
+  color: rgb(1, 21, 255);
+  font-size: 2em;
+  /*font-style: italic;
+  font-weight: bold;*/
+  text-shadow: -1.5px -1.5px pink, 2px 2px silver;
+}

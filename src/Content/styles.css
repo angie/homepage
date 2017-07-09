@@ -1,0 +1,15 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.content p {
+  /*border-left: 6px solid #FED766;*/
+  line-height: 1.6;
+  /*padding-left: 1em;*/
+}
+
+.content--highlight {
+  background-color: yellow;
+}
